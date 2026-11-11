@@ -1,91 +1,113 @@
 # Gurubhargav
 
-### Computer Science Engineering Student | Software Development | AI & Cloud
+### Computer Science Engineering Student | AI/ML | Software Development | Cloud Computing
 
-I am a third-year Computer Science Engineering student interested in building practical software solutions and improving my problem-solving skills.
+I am a Computer Science Engineering student passionate about technology, software development, and Artificial Intelligence. I enjoy exploring new technologies, solving problems, and building practical applications that address real-world challenges.
 
-Currently focused on **Data Structures & Algorithms, Python, Java, SQL, Cloud Computing, and AI/ML**.
+Currently, I am focused on strengthening my programming fundamentals, developing machine learning skills, and gaining hands-on experience through software and AI-based projects.
 
 ---
 
 ## About Me
 
-- Pursuing B.E. in Computer Science Engineering
-- Interested in Software Engineering, AI/ML, and Cloud Computing
-- Currently strengthening Data Structures & Algorithms
-- Building and experimenting with real-world software projects
-- Preparing for software engineering internships and placements
+- Pursuing B.E. in Computer Science Engineering.
+- Interested in Artificial Intelligence, Machine Learning, and Software Engineering.
+- Building practical projects across machine learning, web development, and cloud computing.
+- Strengthening problem-solving skills through Data Structures and Algorithms.
+- Exploring research-oriented AI applications and emerging technologies.
+- Preparing for software engineering internships and placement opportunities.
 
 ---
 
 ## Technical Skills
 
-**Languages**
+**Programming Languages**
 
 Python · Java · SQL
 
-**Core Areas**
+**Computer Science Fundamentals**
 
-Data Structures & Algorithms · Object-Oriented Programming · Database Management
+Data Structures & Algorithms · Object-Oriented Programming · Database Management Systems
 
-**Cloud & Tools**
+**AI & Machine Learning**
 
-Microsoft Azure · Git · GitHub · VS Code · IntelliJ IDEA · PyCharm
+Machine Learning · Natural Language Processing · Reinforcement Learning · Classification Algorithms · Model Evaluation
+
+**Cloud & Development**
+
+Microsoft Azure · Git · GitHub · REST APIs · WebSockets
+
+**Development Tools**
+
+VS Code · IntelliJ IDEA · PyCharm · Jupyter Notebook
 
 ---
 
 ## Featured Projects
 
-### Parkee
-A residential parking platform designed to help users discover and book nearby parking spaces.
+**[Autonomous Rocket Landing Control](https://github.com/bharghavguru/PPO-Based-Autonomous-Landing-Control)**
 
-**Focus:** Web Application · Authentication · Database · Parking Management
+Autonomous rocket landing simulation using Reinforcement Learning and Proximal Policy Optimization (PPO).
 
-### SecureGC
-An end-to-end encrypted group chat application designed for secure real-time communication.
+*Python · Gymnasium · Stable-Baselines3 · Reinforcement Learning*
 
-**Focus:** WebSockets · AES-GCM Encryption · Real-Time Communication
+**[Credit Card Fraud Detection](https://github.com/bharghavguru/Credit-Card-Fraud-Detection)**
 
-### CloudVault
-A cloud-based file storage application built around Azure Blob Storage.
+Machine learning system for identifying fraudulent transactions using classification algorithms and imbalanced dataset handling.
 
-**Focus:** Cloud Storage · Azure · File Management · REST APIs
+*Python · Scikit-learn · Random Forest · SMOTE*
 
-### JauneOS
-A study and productivity application focused on building consistent learning habits and tracking progress.
+**[Sentiment Analysis Using NLP](https://github.com/bharghavguru/Sentiment-Analysis-Using-NLP)**
 
-**Focus:** Productivity · Habit Tracking · User Experience
+Natural Language Processing project that classifies IMDb movie reviews using TF-IDF and machine learning models.
+
+*Python · NLP · TF-IDF · Logistic Regression*
+
+**Parkee — Parking Discovery & Booking Platform**
+
+A platform designed to help users discover and book available residential parking spaces.
+
+*Web Development · Authentication · Database Integration*
+
+**SecureGC — Encrypted Group Chat Application**
+
+A real-time group messaging application focused on secure communication through end-to-end encryption.
+
+*AES-GCM · WebSockets · Real-Time Communication*
+
+**CloudVault — Cloud File Storage**
+
+A cloud-based file storage solution built around Microsoft Azure Blob Storage.
+
+*Microsoft Azure · Cloud Storage · REST APIs*
 
 ---
 
-## Currently Learning
+## Currently Learning & Exploring
 
+- Advanced Python and Java programming
 - Data Structures & Algorithms
-- Advanced Python
-- Java
-- SQL
-- Microsoft Azure
-- AI/ML fundamentals
-- Software Engineering concepts
+- Machine Learning and Deep Learning
+- Advanced Natural Language Processing
+- Research-oriented Artificial Intelligence
+- Microsoft Azure and Cloud Architecture
+- Software Engineering and System Design
 
 ---
 
-## Goals
+## Career Interests
 
-- Strengthen problem-solving and DSA skills
-- Build more practical software projects
-- Gain software engineering internship experience
-- Contribute to open-source projects
-- Develop strong foundations in AI and cloud technologies
+I am particularly interested in opportunities that allow me to work on challenging technical problems, develop scalable software solutions, and explore practical applications of AI.
+
+**Areas of Interest:** Artificial Intelligence · Machine Learning · Software Engineering · Cloud Computing
 
 ---
 
-## Connect
+## Connect With Me
 
-**LinkedIn:** [linkedin.com/in/gurubharghav](https://www.linkedin.com/in/gurubharghav)
-
-**GitHub:** [github.com/bharghavguru](https://github.com/bharghavguru)
+- **LinkedIn:** [linkedin.com/in/gurubharghav](https://www.linkedin.com/in/gurubharghav)
+- **GitHub:** [github.com/bharghavguru](https://github.com/bharghavguru)
 
 ---
 
-*Always learning, building, and improving.*
+*Always curious about technology, committed to learning, and focused on building meaningful solutions.*
